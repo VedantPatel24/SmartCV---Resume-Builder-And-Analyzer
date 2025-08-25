@@ -26,14 +26,16 @@ An intelligent full-stack web application that combines AI-powered resume analys
 
 This project was developed as a group project during the 4th semester by:
 
-- **Satyam Patel** - Backend Development & ML Integration
-- **Vedant Patel** - Frontend Development & UI/UX
-- **Smit Kadia** - Database Design & API Development
-- **Parth Shah** - Machine Learning Models & Data Processing
-- **DhruvrajSinh Zala** - System Architecture & Testing
+- **Satyam Patel** - [GitHub Profile](https://github.com/satyam-patel)
+- **Vedant Patel** - [GitHub Profile](https://github.com/vedant-patel)
+- **Smit Kadia** - [GitHub Profile](https://github.com/smit-kadia)
+- **Parth Shah** - [GitHub Profile](https://github.com/parth-shah)
+- **DhruvrajSinh Zala** - [GitHub Profile](https://github.com/dhruvrajsinh-zala)
 
 **Academic Year:** 4th Semester  
 **Project Type:** Group Project
+
+> 💡 **Note:** This is a collaborative group project. Each team member contributed significantly to different aspects of the application.
 
 ## 🛠️ Tech Stack
 
