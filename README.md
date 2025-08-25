@@ -26,7 +26,7 @@ An intelligent full-stack web application that combines AI-powered resume analys
 
 This project was developed as a group project during the 4th semester by:
 
-- **Satyam Patel** - [GitHub Profile](https://github.com/satyam-patel)
+- **Satyam Patel** - [GitHub Profile](https://github.com/Satyam-7227)
 - **Vedant Patel** - [GitHub Profile](https://github.com/vedant-patel)
 - **Smit Kadia** - [GitHub Profile](https://github.com/smit-kadia)
 - **Parth Shah** - [GitHub Profile](https://github.com/parth-shah)
