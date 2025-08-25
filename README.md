@@ -1,5 +1,8 @@
 # SmartCV - Resume Builder And Analyzer
 
+**Group Project - 4th Semester**  
+*Developed by: Satyam Patel, Vedant Patel, Smit Kadia, Parth Shah, DhruvrajSinh Zala*
+
 An intelligent full-stack web application that combines AI-powered resume analysis, ATS optimization, and career guidance. Built with Django backend and React frontend, featuring machine learning models for resume scoring and job role prediction.
 
 ## 🚀 Features
@@ -18,6 +21,19 @@ An intelligent full-stack web application that combines AI-powered resume analys
 - **Admin Panel** - User management and system analytics for administrators
 - **Real-time Processing** - Fast PDF parsing and analysis using advanced NLP techniques
 - **Responsive Design** - Modern, mobile-friendly interface built with React
+
+## 👥 Team Members
+
+This project was developed as a group project during the 4th semester by:
+
+- **Satyam Patel** - Backend Development & ML Integration
+- **Vedant Patel** - Frontend Development & UI/UX
+- **Smit Kadia** - Database Design & API Development
+- **Parth Shah** - Machine Learning Models & Data Processing
+- **DhruvrajSinh Zala** - System Architecture & Testing
+
+**Academic Year:** 4th Semester  
+**Project Type:** Group Project
 
 ## 🛠️ Tech Stack
 
